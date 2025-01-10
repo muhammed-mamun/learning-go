@@ -1,5 +1,11 @@
 package main
 
+// func add(num1, num2 int) {
+// 	sum := num1 + num2
+
+// 	fmt.Println(sum)
+// }
+
 // //	func add(a int, b int) int {
 // //		return a + b
 // //	}
